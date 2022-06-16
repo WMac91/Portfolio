@@ -14,7 +14,6 @@ header {
 
 header nav {
     display: flex;
-    justify-content: flex-end;
 }
 
 header nav ul {
@@ -39,8 +38,13 @@ header nav ul {
     align-items: center;
 }
 
+#learn_more {
+    height: 30px;
+}
+
 #bee {
     border-radius: 12px;
+    padding: 30px;
 }
 
 #quote {
